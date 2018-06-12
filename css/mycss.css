@@ -1,0 +1,23 @@
+.mycass{
+ margin:3px;
+ background-color:skyblue;
+ padding:10px;
+ min-height:200px;
+}
+
+body{ 
+
+  background: url(a.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.wrapper {
+    width: 100%;
+    background-color: lightcyan;
+}
+.input-group-addon{
+	color:#ff0000; 
+background-color: blue;
+}
